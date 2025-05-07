@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento e Programação de Web na Aceleradora Inclusiva.
 
-- 💞️ Procuro colaborar em projetos criativos, inclusivos e com propósito -- especialmente nas áreas de Design, Marketing e Tecnologia.
+- 💞️ Busco colaborar em projetos criativos, inclusivos e com propósito -- especialmente nas áreas de Design, Marketing e Tecnologia.
 
 - 📫 Como me encontrar: borba_andrade@hotmail.com
 
