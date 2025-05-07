@@ -8,7 +8,7 @@
 
 - 📫 Como me encontrar: borba_andrade@hotmail.com
 
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: Ele/Dele 🏳️‍🌈
 
 - ⚡ Curiosidade: Sou autodidata em várias áreas, PcD (Pessoa com Deficiência), e gosto de unir criatividade com estratégia para gerar impacto.
 
