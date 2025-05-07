@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @marcellofellippe (Marcelo Felipe)
 
-- 👀 Tenho interesse em Administração, Marketing, Design Gráfico, Comunicação Visual e Programação.
+- 👀 Tenho interesse em Administração, Marketing, Design Gráfico, Comunicação Visual, Programação e Desenvolvimento Tecnológico.
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento e Programação de Web na Aceleradora Inclusiva.
 
