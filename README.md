@@ -2,7 +2,7 @@
 <h3 align="center">Marcelo Felipe Andrade de Borba</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/YXh2.gif" alt="Design criativo" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydHR0bXQ5aXo4ZHZ4eWZpdDNvbWh5djBrcnk1ZWxpajhrNDZpcWpxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SuCwUAOj2Bg2B4ExQ9/giphy.gif" alt="Design criativo" width="200"/>
 </p>
 
 <p align="center">
