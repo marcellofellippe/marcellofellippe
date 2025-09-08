@@ -1,13 +1,13 @@
 <h1 align="center">👋 Olá, eu sou @marcellofellippe</h1>
-<h3 align="center">Marcelo Felipe Andrade de Borba</h3>
+<h3 align="center">Quem é Marcelo Felipe?</h3>
+
+<h5>Um pouco de mim, em construção...</h5>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydHR0bXQ5aXo4ZHZ4eWZpdDNvbWh5djBrcnk1ZWxpajhrNDZpcWpxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SuCwUAOj2Bg2B4ExQ9/giphy.gif" alt="Design criativo" width="300"/>
 </p>
 
-<p align="center">
-  <strong>Pronomes:</strong> Ele/Dele 🏳️‍🌈
-</p>
+
 
 ---
 
