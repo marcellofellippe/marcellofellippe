@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou @marcellofellippe</h1>
+<h1 align="center">@marcellofellippe</h1>
 <h3 align="center">Quem é Marcelo Felipe?</h3>
 
 <h5>Um pouco de mim, em construção...</h5>
