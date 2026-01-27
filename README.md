@@ -40,17 +40,26 @@
 - **Marketing e Estratégia**: Planejamento de campanhas, análise de mercado, geomarketing  
 - **Empreendedorismo e Gestão**: Planejamento estratégico, gestão de projetos e negócios  
 
-## 🚀 Tecnologias & Ferramentas
-
 <div align="center">
+
+  <!-- Front-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
+
+  <!-- Ecossistema React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" alt="React Hooks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="45" alt="React Router"/>
+
+  <!-- Versionamento & Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
+
+  <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva"/>
+
 </div>
 
 
