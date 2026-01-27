@@ -67,5 +67,5 @@
 
 ## 📫 Contato
 - GitHub: [marcellofellippe](https://github.com/marcellofellippe)  
-- LinkedIn: [Marcelo Felipe A. de Borba](https://www.linkedin.com/in/marcelo-felipe-andrade-de-borba-b08793266)  
+- LinkedIn: [Marcelo Felipe A. de Borba](https://www.linkedin.com/in/marcellofellippe)  
 - Portfólio: [Instagram Art Manha comunicação visual](https://www.instagram.com/artmanha._)
