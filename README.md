@@ -20,16 +20,17 @@
 
 ## 🎓 Formação Acadêmica
 - **Bacharel em Administração**  
-- **7 Pós-graduações Lato Sensu (MBA e especializações)** nas áreas de:  
+- **8 Pós-graduações Lato Sensu (MBA e especializações)** nas áreas de:  
   - MBA Marketing,
   - Geomarketing e Inteligência de Mercado 
   - Publicidade e Propaganda  
   - Gestão Estratégica de Negócios  
   - Empreendedorismo  
   - Direitos Humanos  
-  - Marketing Digital  
+  - Marketing Digital
+  - Cursando Gestão Empresarial e Administração Estratégica Faculdade
 
-- Atualmente estudando **Desenvolvimento e Programação Web** na **Aceleradora Inclusiva 2025**.
+- Cursei Formação Intensiva **Desenvolvimento e Programação Web** na **Aceleradora Inclusiva 2025**.
 
 ---
 
