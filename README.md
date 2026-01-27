@@ -63,7 +63,7 @@
 </div>
 
 ## Estatísticas 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellofellippe&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellofellippe&show_icons=true&bg_color=000000&icon_color=B00073&text_color=EDEDED&title_color=FFFFFF&border_color=8B005A)
 
 ## Linguagens 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellofellippe&layout=compact)
