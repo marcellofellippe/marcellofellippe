@@ -62,6 +62,11 @@
 
 </div>
 
+## Estatísticas 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellofellippe&show_icons=true&theme=default)
+
+## Linguagens 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellofellippe&layout=compact)
 
 ## 🌱 Sobre mim
 - Sou **designer autodidata**, PcD e apaixonado por **unir criatividade com estratégia para gerar impacto**.  
