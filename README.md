@@ -66,8 +66,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellofellippe&show_icons=true&bg_color=000000&icon_color=B00073&text_color=EDEDED&title_color=FFFFFF&border_color=8B005A)
 
 ## Linguagens 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellofellippe&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellofellippe&layout=compact&bg_color=000000&text_color=EDEDED&title_color=FFFFFF&border_color=8B005A)
 ## 🌱 Sobre mim
 - Sou **designer autodidata**, PcD e apaixonado por **unir criatividade com estratégia para gerar impacto**.  
 - Desenvolvo projetos **práticos e inovadores**, aprendendo constantemente novas técnicas e ferramentas de design.  
