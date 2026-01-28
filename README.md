@@ -28,7 +28,7 @@
   - Empreendedorismo  
   - Direitos Humanos  
   - Marketing Digital
-  - Cursando Gestão Empresarial e Administração Estratégica Faculdade
+  - Cursando Gestão Empresarial e Administração Estratégica
 
 - Cursei Formação Intensiva **Desenvolvimento e Programação Web** na **Aceleradora Inclusiva 2025**.
 
