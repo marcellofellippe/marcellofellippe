@@ -34,7 +34,7 @@
 
 ---
 
-## 💻 Habilidades Técnicas
+## 🟪 Habilidades Técnicas
 - **Programação e Web**: HTML5, CSS3, JavaScript, GitHub  
 - **Design e Comunicação Visual**: CorelDRAW (Meu xodó), Adobe (Photoshop, Illustrator, etc.), Canva
 - **Marketing e Estratégia**: Planejamento de campanhas, análise de mercado, geomarketing  
