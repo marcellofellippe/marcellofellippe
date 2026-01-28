@@ -1,7 +1,7 @@
-<h4 align="center">@marcellofellippe🏳️‍🌈</h4>
+<h4 align="center">@marcellofellippe💕</h4>
 <h2 align="center">Quem é Marcelo Felipe?</h2>
 <h5 align="center">
-🔥 Proativo, hiperfocado e movido a resultados, transformando ideias em projetos concluídos e inovadores.
+💜 Proativo, hiperfocado e movido a resultados, transformando ideias em projetos concluídos e inovadores.
 </h5>
 <h5 align="center">
 ☕ 𝗰ó𝗱𝗶𝗴𝗼 𝗲 𝘂𝗺 𝗽𝗼u𝗰𝗼 𝗱𝗲 𝗰𝗮𝗼𝘀 𝗰𝗿𝗶𝗮𝘁𝗶𝘃𝗼... 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎓 Formação Acadêmica
+## 💜 Formação Acadêmica
 - **Bacharel em Administração**  
 - **8 Pós-graduações Lato Sensu (MBA e especializações)** nas áreas de:  
   - MBA Marketing,
@@ -77,7 +77,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcellofellippe&bg_color=000000&color=EDEDED&line=B00073&point=8B005A&border_color=8B005A" />
 </p>
 
-## 🌱 Sobre mim
+##  💜 Sobre mim
 - Sou **designer autodidata**, PcD e apaixonado por **unir criatividade com estratégia para gerar impacto**.  
 - Desenvolvo projetos **práticos e inovadores**, aprendendo constantemente novas técnicas e ferramentas de design.  
 - Busco sempre **aprender, explorar novas tecnologias e criar soluções visuais que gerem valor real**.  
@@ -86,21 +86,21 @@
 
 ---
 
-## 💞️ Colaborações e Projetos
+## 💜 Colaborações e Projetos
 - Criação de **conteúdo visual, branding e identidade** para empresas e projetos criativos.  
 - Desenvolvimento de **portfólio web e projetos visuais**, conectando criatividade e estratégia.  
 - Atuação em **projetos de inclusão social e acessibilidade** que fazem diferença.
 
 ---
 
-## ⚡ Curiosidades
+## 🟣 Curiosidades
 - Gosto de **unir arte e estratégia** para gerar impacto real.  
 - Sempre em busca de **novas experiências, desafios e conexões significativas**.  
 - Adoro explorar **tecnologias, design, marketing e inovação**.
 
 ---
 
-## 📫 Contato
+## 🟪 Contato
 - GitHub: [marcellofellippe](https://github.com/marcellofellippe)  
 - LinkedIn: [Marcelo Felipe A. de Borba](https://www.linkedin.com/in/marcellofellippe)  
 - Portfólio: [Instagram Art Manha comunicação visual](https://www.instagram.com/artmanha._)
