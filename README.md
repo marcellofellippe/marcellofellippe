@@ -1,7 +1,7 @@
-<h4 align="center">@marcellofellippe💕</h4>
+<h4 align="center">@marcellofellippe💜</h4>
 <h2 align="center">Quem é Marcelo Felipe?</h2>
 <h5 align="center">
-💜 Proativo, hiperfocado e movido a resultados, transformando ideias em projetos concluídos e inovadores.
+🔥 Proativo, hiperfocado e movido a resultados, transformando ideias em projetos concluídos e inovadores.
 </h5>
 <h5 align="center">
 ☕ 𝗰ó𝗱𝗶𝗴𝗼 𝗲 𝘂𝗺 𝗽𝗼u𝗰𝗼 𝗱𝗲 𝗰𝗮𝗼𝘀 𝗰𝗿𝗶𝗮𝘁𝗶𝘃𝗼... 
