@@ -1,7 +1,7 @@
 <h4 align="center">@marcellofellippe💜</h4>
 <h2 align="center">Quem é Marcelo Felipe?</h2>
 <h5 align="center">
-🔥 Proativo, hiperfocado e movido a resultados, transformando ideias em projetos concluídos e inovadores.
+ 🍀 Proativo, hiperfocado e movido a resultados, transformando ideias em projetos concluídos e inovadores.
 </h5>
 <h5 align="center">
 ☕ 𝗰ó𝗱𝗶𝗴𝗼 𝗲 𝘂𝗺 𝗽𝗼u𝗰𝗼 𝗱𝗲 𝗰𝗮𝗼𝘀 𝗰𝗿𝗶𝗮𝘁𝗶𝘃𝗼... 
@@ -62,17 +62,17 @@
 
 </div>
 
-## Estatísticas
+## 🟪 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcellofellippe&show_icons=true&bg_color=000000&icon_color=B00073&text_color=EDEDED&title_color=FFFFFF&border_color=8B005A" />
 </p>
 
-## Linguagens
+## 🟪 Linguagens
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellofellippe&layout=compact&bg_color=000000&text_color=EDEDED&title_color=FFFFFF&border_color=8B005A" />
 </p>
 
-## Gráfico de Atividades
+## 🟪 Gráfico de Atividades
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcellofellippe&bg_color=000000&color=EDEDED&line=B00073&point=8B005A&border_color=8B005A" />
 </p>
